@@ -7,7 +7,6 @@ import Image from 'next/image'
 import { urlFor } from '@/sanity/lib/image'
 import { ChevronRightIcon } from '@heroicons/react/24/outline'
 import Swal from 'sweetalert2'
-import { format } from 'path'
 import { client } from '@/sanity/lib/client'
 
 const Chaeckout = () => {

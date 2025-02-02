@@ -74,7 +74,7 @@ const productdetail = () => {
           <div className="container mx-auto max-w-4xl space-y-4 md:space-y-6">
             <div className="text-sm md:text-base leading-relaxed md:leading-[24px] text-greysame">
               <p className="text-justify">
-                Embodying the raw, wayward spirit of rock 'n' roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.
+                Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.
               </p>
             </div>
     
