@@ -41,8 +41,8 @@ const Navbar = () => {
               <li><Link href="/home" className="hover:underline">Home</Link></li>
               <li><Link href="/Shop" className="hover:underline">Shop</Link></li>
               <li><Link href="/Shop1" className="hover:underline">Shop1</Link></li>
-              <li><Link href="/about" className="hover:underline">About</Link></li>
-              <li><Link href="/contact" className="hover:underline">Contact</Link></li>
+              <li><Link href="/About" className="hover:underline">About</Link></li>
+              <li><Link href="/Contact" className="hover:underline">Contact</Link></li>
             </ul>
           </nav>
 
@@ -50,7 +50,7 @@ const Navbar = () => {
           <div className="flex justify-center items-center space-x-4 md:space-x-6 col-span-1">
             <UserIcon className="h-6 w-6 text-sblack cursor-pointer" />
             <HeartIcon className="h-6 w-6 text-sblack cursor-pointer sm:block" />
-            <ShoppingCartIcon className="h-6 w-6 text-sblack cursor-pointer" />
+           <Link href="/Cart1"><ShoppingCartIcon className="h-6 w-6 text-sblack cursor-pointer" /></Link>
             <MagnifyingGlassIcon className="h-6 w-6 text-sblack cursor-pointer sm:block" />
           </div>
 
